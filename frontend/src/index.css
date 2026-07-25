@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #0f766e; /* teal — trust, growth */
+  --color-accent: #f59e0b;  /* amber — CTA highlights */
+}
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+}
